@@ -1,0 +1,5 @@
+interface:
+  display_name: Ritual
+  short_description: Plan and build implementation-heavy changes with Ritual context, discovery, build briefs, lineage, and context-pulse scoring.
+  icon: 🔗
+  color: "#1FAF9F"

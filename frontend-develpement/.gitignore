@@ -1,0 +1,9 @@
+# Begin: ritual init — scaffolded skill dirs (regenerated on every init)
+.agents/skills/ritual/
+# End: ritual init
+
+# Node and build artifacts
+node_modules/
+dist/
+.vite/
+.DS_Store
